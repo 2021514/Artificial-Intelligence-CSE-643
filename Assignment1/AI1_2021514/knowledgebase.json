@@ -1,0 +1,829 @@
+{
+    "Paris": {
+        "Location": "France",
+        "Climate": "Mild",
+        "Activities": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Seine River Cruise",
+            "French Cuisine"
+        ],
+        "User Rating": 8.5,
+        "Feedback": [
+            {
+                "User": "John",
+                "Rating": 9,
+                "Comment": "Absolutely loved it!"
+            },
+            {
+                "User": "Sarah",
+                "Rating": 8,
+                "Comment": "Great city, lots to see."
+            }
+        ],
+        "Budget": 30000,
+        "Purpose": "Leisure",
+        "Duration Preferred": "1 week"
+    },
+    "Kyoto": {
+        "Location": "Japan",
+        "Climate": "Temperate",
+        "Activities": [
+            "Kinkaku-ji Temple",
+            "Fushimi Inari Shrine",
+            "Traditional Tea Ceremony"
+        ],
+        "User Rating": 9.0,
+        "Feedback": [
+            {
+                "User": "Michael",
+                "Rating": 9,
+                "Comment": "Kyoto's cultural heritage is incredible."
+            },
+            {
+                "User": "Emily",
+                "Rating": 9.5,
+                "Comment": "Magical experience in Kyoto."
+            }
+        ],
+        "Budget": 60000,
+        "Purpose": "Exploration",
+        "Duration Preferred": "1 week"
+    },
+    "Bali": {
+        "Location": "Indonesia",
+        "Climate": "Tropical",
+        "Activities": [
+            "Beach Relaxation",
+            "Ubud Monkey Forest",
+            "Water Temples"
+        ],
+        "User Rating": 9.2,
+        "Feedback": [
+            {
+                "User": "Liam",
+                "Rating": 9,
+                "Comment": "A paradise for beach lovers."
+            },
+            {
+                "User": "Sophia",
+                "Rating": 9.5,
+                "Comment": "Bali's culture and nature are enchanting."
+            }
+        ],
+        "Budget": 70000,
+        "Purpose": "Tourism and Relaxation",
+        "Duration Preferred": "1 month"
+    },
+    "Kedarnath": {
+        "Location": "India",
+        "Climate": "Cold",
+        "Activities": [
+            "Kedarnath Temple",
+            "Trekking",
+            "Spiritual Retreat"
+        ],
+        "User Rating": 9.3,
+        "Feedback": [
+            {
+                "User": "Amit",
+                "Rating": 9.5,
+                "Comment": "A spiritually uplifting experience."
+            },
+            {
+                "User": "Priya",
+                "Rating": 9.2,
+                "Comment": "The trekking was challenging but rewarding."
+            }
+        ],
+        "Budget": 20000,
+        "Purpose": "Religious",
+        "Duration Preferred": "1 month"
+    },
+    "Rishikesh": {
+        "Location": "India",
+        "Climate": "Mild",
+        "Activities": [
+            "Yoga Retreats",
+            "River Rafting",
+            "Visit Temples"
+        ],
+        "User Rating": 8.8,
+        "Feedback": [
+            {
+                "User": "Nina",
+                "Rating": 9.0,
+                "Comment": "A perfect place for yoga enthusiasts."
+            },
+            {
+                "User": "Raj",
+                "Rating": 8.5,
+                "Comment": "River rafting was thrilling."
+            }
+        ],
+        "Budget": 8000,
+        "Purpose": "Adventure",
+        "Duration Preferred": "1 month"
+    },
+    "Himachal Pradesh": {
+        "Location": "India",
+        "Climate": "Varies",
+        "Activities": [
+            "Trekking",
+            "Skiing",
+            "Adventure Sports",
+            "Scenic Drives"
+        ],
+        "User Rating": 9.1,
+        "Feedback": [
+            {
+                "User": "Alex",
+                "Rating": 9.5,
+                "Comment": "Himachal offers a variety of landscapes and activities."
+            },
+            {
+                "User": "Sophie",
+                "Rating": 8.8,
+                "Comment": "Loved the trekking trails and beautiful scenery."
+            }
+        ],
+        "Budget": 15000,
+        "Purpose": "Adventure",
+        "Duration Preferred": "1 month"
+    },
+    "Agra": {
+        "Location": "India",
+        "Climate": "Varies",
+        "Activities": [
+            "Taj Mahal Visit",
+            "Agra Fort",
+            "Fatehpur Sikri",
+            "Local Cuisine"
+        ],
+        "User Rating": 8.9,
+        "Feedback": [
+            {
+                "User": "David",
+                "Rating": 9.0,
+                "Comment": "Taj Mahal is a true marvel."
+            },
+            {
+                "User": "Emma",
+                "Rating": 8.5,
+                "Comment": "Rich historical and architectural heritage."
+            }
+        ],
+        "Budget": 3000,
+        "Purpose": "Exploration",
+        "Duration Preferred": "2 days"
+    },
+    "Rajasthan": {
+        "Location": "India",
+        "Climate": "Varies",
+        "Activities": [
+            "Jaipur City Palace",
+            "Jaisalmer Desert Safari",
+            "Udaipur Lake Pichola"
+        ],
+        "User Rating": 8.7,
+        "Feedback": [
+            {
+                "User": "Linda",
+                "Rating": 8.8,
+                "Comment": "A royal experience in the land of palaces and forts."
+            },
+            {
+                "User": "Mike",
+                "Rating": 8.6,
+                "Comment": "Rajasthan's cultural heritage is captivating."
+            },
+            {
+                "User": "Satyam",
+                "Rating": 8.0,
+                "Comment": "Pani, pani, pani, uncle ji mujhe paani pila dijiye mera gala sookh raha hai"
+            }
+        ],
+        "Budget": 6000,
+        "Purpose": "Tourism and Relaxation",
+        "Duration Preferred": "5 days"
+    },
+    "New Delhi": {
+        "Location": "India",
+        "Climate": "Varies",
+        "Activities": [
+            "Red Fort",
+            "Qutub Minar",
+            "India Gate",
+            "Street Food"
+        ],
+        "User Rating": 8.4,
+        "Feedback": [
+            {
+                "User": "Chris",
+                "Rating": 8.5,
+                "Comment": "Delhi offers a mix of history and modernity."
+            },
+            {
+                "User": "Anna",
+                "Rating": 8.3,
+                "Comment": "The street food is a must-try."
+            },
+            {
+                "User": "Aditya",
+                "Rating": 6.9,
+                "Comment": "Bohot dhuaa hai bhai"
+            }
+        ],
+        "Budget": 4000,
+        "Purpose": "Fun",
+        "Duration Preferred": "2 days"
+    },
+    "Mumbai": {
+        "Location": "India",
+        "Climate": "Varies",
+        "Activities": [
+            "Gateway of India",
+            "Marine Drive",
+            "Bollywood Tours",
+            "Local Markets"
+        ],
+        "User Rating": 8.6,
+        "Feedback": [
+            {
+                "User": "Tom",
+                "Rating": 8.7,
+                "Comment": "Mumbai's energy and nightlife are incredible."
+            },
+            {
+                "User": "Olivia",
+                "Rating": 8.5,
+                "Comment": "A city of dreams with a lot to offer."
+            },
+            {
+                "User": "Aditya Kumar",
+                "Rating": 7.8,
+                "Comment": "Mumbai is a city of contrasts. It is a bustling metropolis with a rich history and culture. There is something for everyone in Mumbai, from the iconic Gateway of India to the vibrant Dharavi slum"
+            }
+        ],
+        "Budget": 4000,
+        "Purpose": "Fun",
+        "Duration Preferred": "2 days"
+    },
+    "Cairo": {
+        "Location": "Egypt",
+        "Climate": "Desert",
+        "Activities": [
+            "Pyramids of Giza",
+            "Egyptian Museum",
+            "Nile River Cruise"
+        ],
+        "User Rating": 8.7,
+        "Feedback": [
+            {
+                "User": "Amir",
+                "Rating": 8.5,
+                "Comment": "The history of Egypt is awe-inspiring."
+            },
+            {
+                "User": "Layla",
+                "Rating": 9.0,
+                "Comment": "The Pyramids are a must-see wonder."
+            }
+        ],
+        "Budget": 35000,
+        "Purpose": "Exploration",
+        "Duration Preferred": "5 days"
+    },
+    "Rio de Janeiro": {
+        "Location": "Brazil",
+        "Climate": "Tropical",
+        "Activities": [
+            "Christ the Redeemer",
+            "Copacabana Beach",
+            "Samba Dancing"
+        ],
+        "User Rating": 8.8,
+        "Feedback": [
+            {
+                "User": "Carlos",
+                "Rating": 9.0,
+                "Comment": "Rio's natural beauty is mesmerizing."
+            },
+            {
+                "User": "Maria",
+                "Rating": 8.6,
+                "Comment": "The energy of the city is contagious."
+            }
+        ],
+        "Budget": 45000,
+        "Purpose": "Tourism and Relaxation",
+        "Duration Preferred": "1 week"
+    },
+    "Sydney": {
+        "Location": "Australia",
+        "Climate": "Mild",
+        "Activities": [
+            "Sydney Opera House",
+            "Bondi Beach",
+            "Harbour Bridge Climb"
+        ],
+        "User Rating": 9.1,
+        "Feedback": [
+            {
+                "User": "Jack",
+                "Rating": 9.2,
+                "Comment": "Sydney is a perfect blend of culture and nature."
+            },
+            {
+                "User": "Sophie",
+                "Rating": 9.0,
+                "Comment": "The beaches here are stunning."
+            }
+        ],
+        "Budget": 55000,
+        "Purpose": "Fun",
+        "Duration Preferred": "1 week"
+    },
+    "London": {
+        "Location": "United Kingdom",
+        "Climate": "Mild",
+        "Activities": [
+            "Big Ben",
+            "British Museum",
+            "Buckingham Palace",
+            "West End Shows"
+        ],
+        "User Rating": 8.9,
+        "Feedback": [
+            {
+                "User": "Sophie",
+                "Rating": 9.0,
+                "Comment": "London's history and culture are fascinating."
+            },
+            {
+                "User": "David",
+                "Rating": 8.8,
+                "Comment": "A city with a perfect blend of old and new."
+            }
+        ],
+        "Budget": 55000,
+        "Purpose": "Fun",
+        "Duration Preferred": "1 week"
+    },
+    "New York": {
+        "Location": "United States",
+        "Climate": "Varies",
+        "Activities": [
+            "Statue of Liberty",
+            "Central Park",
+            "Broadway Shows",
+            "Empire State Building"
+        ],
+        "User Rating": 9.1,
+        "Feedback": [
+            {
+                "User": "Emma",
+                "Rating": 9.2,
+                "Comment": "New York is a city that never sleeps."
+            },
+            {
+                "User": "John",
+                "Rating": 9.0,
+                "Comment": "So much to see and do in the Big Apple."
+            }
+        ],
+        "Budget": 60000,
+        "Purpose": "Tourism and Relaxation",
+        "Duration Preferred": "1 week"
+    },
+    "Beijing": {
+        "Location": "China",
+        "Climate": "Temperate",
+        "Activities": [
+            "Great Wall of China",
+            "Forbidden City",
+            "Temple of Heaven"
+        ],
+        "User Rating": 8.7,
+        "Feedback": [
+            {
+                "User": "Liu",
+                "Rating": 8.5,
+                "Comment": "China's history is astounding."
+            },
+            {
+                "User": "Ming",
+                "Rating": 9.0,
+                "Comment": "The Great Wall is a marvel of human engineering."
+            }
+        ],
+        "Budget": 45000,
+        "Purpose": "Exploration",
+        "Duration Preferred": "1 week"
+    },
+    "Moscow": {
+        "Location": "Russia",
+        "Climate": "Cold",
+        "Activities": [
+            "Red Square",
+            "Kremlin",
+            "Bolshoi Theatre"
+        ],
+        "User Rating": 8.6,
+        "Feedback": [
+            {
+                "User": "Ivan",
+                "Rating": 8.8,
+                "Comment": "Moscow's architecture is impressive."
+            },
+            {
+                "User": "Elena",
+                "Rating": 8.4,
+                "Comment": "A city rich in history and culture."
+            }
+        ],
+        "Budget": 50000,
+        "Purpose": "Exploration",
+        "Duration Preferred": "1 week"
+    },
+    "Tokyo": {
+        "Location": "Japan",
+        "Climate": "Temperate",
+        "Activities": [
+            "Tokyo Disneyland",
+            "Asakusa Temple",
+            "Shibuya Crossing"
+        ],
+        "User Rating": 9.2,
+        "Feedback": [
+            {
+                "User": "Yuki",
+                "Rating": 9.5,
+                "Comment": "Tokyo is a futuristic metropolis."
+            },
+            {
+                "User": "Hiroshi",
+                "Rating": 9.0,
+                "Comment": "The food and technology here are incredible."
+            }
+        ],
+        "Budget": 65000,
+        "Purpose": "Tourism and Relaxation",
+        "Duration Preferred": "1 week"
+    },
+    "Singapore": {
+        "Location": "Singapore",
+        "Climate": "Tropical",
+        "Activities": [
+            "Gardens by the Bay",
+            "Sentosa Island",
+            "Singapore Zoo"
+        ],
+        "User Rating": 9.3,
+        "Feedback": [
+            {
+                "User": "Wei",
+                "Rating": 9.5,
+                "Comment": "Singapore is a clean and modern city."
+            },
+            {
+                "User": "Ling",
+                "Rating": 9.2,
+                "Comment": "The food in Singapore is a delight."
+            }
+        ],
+        "Budget": 70000,
+        "Purpose": "Tourism and Relaxation",
+        "Duration Preferred": "1 week"
+    },
+    "Toronto": {
+        "Location": "Canada",
+        "Climate": "Varies",
+        "Activities": [
+            "CN Tower",
+            "Royal Ontario Museum",
+            "Niagara Falls"
+        ],
+        "User Rating": 8.8,
+        "Feedback": [
+            {
+                "User": "Mark",
+                "Rating": 8.9,
+                "Comment": "Toronto is a diverse and vibrant city."
+            },
+            {
+                "User": "Emily",
+                "Rating": 8.7,
+                "Comment": "Niagara Falls is a must-see natural wonder."
+            }
+        ],
+        "Budget": 60000,
+        "Purpose": "Exploration",
+        "Duration Preferred": "1 week"
+    },
+    "Kathmandu": {
+        "Location": "Nepal",
+        "Climate": "Mild",
+        "Activities": [
+            "Swayambhunath Stupa",
+            "Boudhanath Stupa",
+            "Trekking in the Himalayas"
+        ],
+        "User Rating": 9.0,
+        "Feedback": [
+            {
+                "User": "Rajesh",
+                "Rating": 9.2,
+                "Comment": "Nepal's natural beauty is breathtaking."
+            },
+            {
+                "User": "Anita",
+                "Rating": 8.8,
+                "Comment": "Trekking in the Himalayas is a life-changing experience."
+            }
+        ],
+        "Budget": 35000,
+        "Purpose": "Adventure",
+        "Duration Preferred": "2 weeks"
+    },
+    "Jerusalem": {
+        "Location": "Israel",
+        "Climate": "Mild",
+        "Activities": [
+            "Western Wall",
+            "Church of the Holy Sepulchre",
+            "Dome of the Rock"
+        ],
+        "User Rating": 9.0,
+        "Feedback": [
+            {
+                "User": "Sarah",
+                "Rating": 9.5,
+                "Comment": "Incredible spiritual experience."
+            },
+            {
+                "User": "David",
+                "Rating": 8.8,
+                "Comment": "A must-visit for people of faith."
+            }
+        ],
+        "Budget": 55000,
+        "Purpose": "Religious",
+        "Duration Preferred": "1 week"
+    },
+    "Varanasi": {
+        "Location": "India",
+        "Climate": "Varies",
+        "Activities": [
+            "Ganges River Aarti",
+            "Visit Temples",
+            "Boat Rides"
+        ],
+        "User Rating": 8.9,
+        "Feedback": [
+            {
+                "User": "Amit",
+                "Rating": 9.0,
+                "Comment": "A deeply spiritual place."
+            },
+            {
+                "User": "Priya",
+                "Rating": 8.7,
+                "Comment": "Varanasi's culture is unique."
+            }
+        ],
+        "Budget": 25000,
+        "Purpose": "Religious",
+        "Duration Preferred": "1 week"
+    },
+    "Mecca": {
+        "Location": "Saudi Arabia",
+        "Climate": "Hot",
+        "Activities": [
+            "Hajj Pilgrimage",
+            "Visit the Kaaba",
+            "Prayers at Masjid al-Haram"
+        ],
+        "User Rating": 9.5,
+        "Feedback": [
+            {
+                "User": "Ahmed",
+                "Rating": 9.8,
+                "Comment": "A life-changing pilgrimage."
+            },
+            {
+                "User": "Fatima",
+                "Rating": 9.0,
+                "Comment": "Mecca is the heart of Islam."
+            }
+        ],
+        "Budget": 35000,
+        "Purpose": "Religious",
+        "Duration Preferred": "2 weeks"
+    },
+    "Vatican City": {
+        "Location": "Vatican City",
+        "Climate": "Mild",
+        "Activities": [
+            "St. Peter's Basilica",
+            "Vatican Museums",
+            "Sistine Chapel"
+        ],
+        "User Rating": 9.2,
+        "Feedback": [
+            {
+                "User": "Maria",
+                "Rating": 9.5,
+                "Comment": "A spiritual journey of a lifetime."
+            },
+            {
+                "User": "Antonio",
+                "Rating": 9.0,
+                "Comment": "The Vatican's art and history are breathtaking."
+            }
+        ],
+        "Budget": 40000,
+        "Purpose": "Religious",
+        "Duration Preferred": "1 week"
+    },
+    "Amritsar": {
+        "Location": "India",
+        "Climate": "Mild",
+        "Activities": [
+            "Golden Temple",
+            "Jallianwala Bagh",
+            "Wagah Border Ceremony"
+        ],
+        "User Rating": 9.0,
+        "Feedback": [
+            {
+                "User": "Gurpreet",
+                "Rating": 9.2,
+                "Comment": "The Golden Temple is divine."
+            },
+            {
+                "User": "Rajinder",
+                "Rating": 8.5,
+                "Comment": "Amritsar's spirituality is palpable."
+            }
+        ],
+        "Budget": 20000,
+        "Purpose": "Religious",
+        "Duration Preferred": "1 week"
+    },
+    "Lumbini": {
+        "Location": "Nepal",
+        "Climate": "Mild",
+        "Activities": [
+            "Maya Devi Temple",
+            "Lumbini Museum",
+            "Peace Pagoda"
+        ],
+        "User Rating": 8.8,
+        "Feedback": [
+            {
+                "User": "Siddharth",
+                "Rating": 9.0,
+                "Comment": "Lumbini is the birthplace of Buddhism."
+            },
+            {
+                "User": "Neha",
+                "Rating": 8.6,
+                "Comment": "A serene and spiritual destination."
+            }
+        ],
+        "Budget": 25000,
+        "Purpose": "Religious",
+        "Duration Preferred": "1 week"
+    },
+    "Goa": {
+        "Location": "India",
+        "Climate": "Hot",
+        "Activities": [
+            "Beach",
+            "Boating",
+            "Swimming",
+            "Diving",
+            "Forts"
+        ],
+        "User Rating": 9.1,
+        "Feedback": [
+            {
+                "User": "Rohit Kumar",
+                "Rating": 9.1,
+                "Comment": "Goa is a beautiful place with amazing beaches, delicious food, and friendly people. I had a wonderful time there and would definitely recommend it to others"
+            }
+        ],
+        "Budget": 20000,
+        "Purpose": "Fun",
+        "Duration Preferred": "1 week"
+    },
+    "Jaipur": {
+        "Location": "India",
+        "Climate": "Hot",
+        "Activities": [
+            "Forts",
+            "local markets",
+            "Local art",
+            "Cultural Show"
+        ],
+        "User Rating": 8.4,
+        "Feedback": [
+            {
+                "User": "Rahul",
+                "Rating": 8.4,
+                "Comment": "I loved the vibrant colors of Jaipur. The city is known as the Pink City because of the pink sandstone used to build many of the buildings. Jaipur is also a great place to shop for souvenirs and handicrafts."
+            }
+        ],
+        "Budget": 15000,
+        "Purpose": "Exploration",
+        "Duration Preferred": "4 days"
+    },
+    "Kerala": {
+        "Location": "India",
+        "Climate": "Hot",
+        "Activities": [
+            "Boat Ride",
+            "Hill stations",
+            " Wildlife safari",
+            "Bird watching",
+            "Kathakali",
+            "Beach",
+            " Festival"
+        ],
+        "User Rating": 9.4,
+        "Feedback": [
+            {
+                "User": "Krishna",
+                "Rating": 9.4,
+                "Comment": "I was really impressed by the cleanliness and well-maintained infrastructure of Kerala. It is a very beautiful and inviting state."
+            }
+        ],
+        "Budget": 25000,
+        "Purpose": "Tourism and Relaxation",
+        "Duration Preferred": "1 month"
+    },
+    "Udaipur": {
+        "Location": "India",
+        "Climate": "Tropical",
+        "Activities": [
+            "Boat Ride",
+            "Lake Tour",
+            "Temples",
+            "Cultural Performances",
+            "Shopping"
+        ],
+        "User Rating": 7.5,
+        "Feedback": [
+            {
+                "User": "Soumya",
+                "Rating": 7.5,
+                "Comment": "Udaipur is a great place to visit for all types of travelers. Whether you are looking for a romantic getaway, a cultural experience, or a relaxing vacation, Udaipur has something to offer everyone."
+            }
+        ],
+        "Budget": 12000,
+        "Purpose": "Adventure",
+        "Duration Preferred": "3-4 days"
+    },
+    "San Francisco": {
+        "Location": "United States",
+        "Climate": "Cold",
+        "Activities": [
+            "Cable car ride",
+            "Beach",
+            "Food and Dining",
+            "Bridges"
+        ],
+        "User Rating": 9.3,
+        "Feedback": [
+            {
+                "User": "Abhishek",
+                "Rating": 9.3,
+                "Comment": "I had a wonderful time in San Francisco. It is a beautiful and exciting city with friendly people and delicious food. I highly recommend visiting San Francisco to anyone looking for a unique and memorable travel experience."
+            }
+        ],
+        "Budget": 200000,
+        "Purpose": "Tourism and Relaxation",
+        "Duration Preferred": "1 month"
+    },
+    "Cape Town": {
+        "Location": "South Africa",
+        "Climate": "Mild",
+        "Activities": [
+            "Mountains",
+            "Wildlife safaris",
+            "Beatutiful beaches"
+        ],
+        "User Rating": 8.3,
+        "Feedback": [
+            {
+                "User": "Soumya",
+                "Rating": 8.3,
+                "Comment": "Cape Town offers a diverse range of experiences, from safaris to beautiful beaches and stunning landscapes. It's an excellent destination for nature lovers"
+            }
+        ],
+        "Budget": 60000,
+        "Purpose": "Tourism and Relaxation",
+        "Duration Preferred": "7-10 days"
+    }
+}
